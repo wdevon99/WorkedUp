@@ -1,3 +1,4 @@
+// This php file will set up the database
 <?php
 $dbhost = 'localhost';
 $dbuser = 'root';
