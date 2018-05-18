@@ -67,7 +67,6 @@
 	echo '</form>';
 	
 	
-	//include head layout
 	include("footfile.html");
 
 ?>
