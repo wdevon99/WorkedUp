@@ -1,4 +1,5 @@
 <?php
+	//STARTS THE SESSION
 	session_start();
 	//include a db.php file to connect to database
 	include ("db.php");
