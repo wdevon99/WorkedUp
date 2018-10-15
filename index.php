@@ -1,6 +1,6 @@
 <?php
 	session_start();
-	//include a db.php file to connect to database
+	//add db
 	include ("db.php");
 	
 	//create a variable called $pagename which contains the actual name of the page
