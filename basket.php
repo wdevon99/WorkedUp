@@ -88,6 +88,7 @@
 	
 	//include head layout
 	include("footfile.html");
+	//end
 	
 
 ?>
