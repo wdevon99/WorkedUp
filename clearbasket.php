@@ -22,11 +22,6 @@
 	
 	unset($_SESSION['basket']);
 	echo "Ordering basket now clear";
-	
-	
-
-	//include head layout
 	include("footfile.html");
-	
 
 ?>
